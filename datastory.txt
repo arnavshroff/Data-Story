@@ -1,0 +1,22 @@
+If we look at this data, we can see that the yellow dots are the ones who were given a reminder to save (Since 1 stands for True) while the blue dots are the ones who were not given a reminder to save.
+
+We can also see that most of the outliers are the Blue dots, who have saved more than others.
+
+Let's try to see how many people were given a reminder v/s the people who were not given a reminder.
+
+
+
+Here, we can see that about 8 thousand people were reminded, compared to about 5 thousand people who were not reminded to save.
+
+Let's see what is the mean, median and mode of the savings made by people.
+
+
+
+Now these are some very interesting results! Can you guess why the mean, median and the mode is not same and worlds apart?
+
+If we go back and look at the scatterplot we plotted before, we can see that majority of the savings data lies between 0 to 100.
+
+Now, since we have a few outliers, which are the blue dots that are away from the rest of the crowd, our mean has significantly increased from the median, since it is the sum of all values by total entries. Since the outliers lie far away from the crowd, the difference is huge.
+
+Similarly, for mode, in our data, there are a lot of people who didn't save at all. Thus, the mode of the data is 0. Mode is the value with maximum occurences.
+
